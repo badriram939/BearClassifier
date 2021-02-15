@@ -1,1 +1,2 @@
 # BearClassifier
+Bear Classifier
